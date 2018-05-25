@@ -4,7 +4,7 @@ x-collection-name: Blogger
 x-complete: 1
 info:
   title: Blogger
-  description: api-for-access-to-the-data-within-blogger
+  description: api-for-access-to-the-data-within-blogger-
   contact:
     name: Google
     url: https://google.com
