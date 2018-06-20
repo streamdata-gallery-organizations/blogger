@@ -7,10 +7,10 @@ description: Blogger is a blog-publishing service that allows multi-user blogs w
   Blogs can also be hosted in the registered custom domain of the blogger (like www.example.com).
 image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blogger-icon.png
 x-kinRank: "9"
-x-alexaRank: ""
+x-alexaRank: "0"
 tags: Blogger
-created: "2018-05-25"
-modified: "2018-05-25"
+created: "2018-06-20"
+modified: "2018-06-20"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/blogger/master/_listings/blogger/apis.md
 specificationVersion: "0.14"
 apis:
