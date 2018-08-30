@@ -1,0 +1,33 @@
+{
+	"name": "Streadata.io API Gallery - Blogger",
+	"description": "This is a repository of blogger APIs, self-contained as a Github repository, with HTML and YAML representations of the APIs and their surrounding operations.",
+	"image": "http://template.streamdata.gallery/assets/blogger.png",
+	"created": "2018-02-24",
+	"modified": "2018-08-29",
+	"url": "http://blogger.streamdata.gallery/apis.json",
+	"specificationVersion": "0.14",
+	"apis": [
+		{
+			"name": "Blogger",
+			"x-api-slug": "blogger",
+			"description": "Blogger is a blog-publishing service that allows multi-user blogs with time-stamped entries. It was developed by Pyra Labs, which was bought by Google in 2003. Generally, the blogs are hosted by Google at a subdomain of blogspot.com. Blogs can also be hosted in the registered custom domain of the blogger (like www.example.com).",
+			"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/blogger-icon.png",
+			"humanURL": "https://www.blogger.com",
+			"baseURL": "://www.googleapis.com//blogger/v3",
+			"tags": "Blogger",
+			"properties": [
+				{
+					"type": "x-openapi-spec",
+					"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/blogger/master/_listings/blogger/openapi.md"
+				}
+			]
+		}
+	],
+	"tags": "Blogger",
+	"include": [
+		{
+			"name": "Blogger",
+			"url": "https://raw.githubusercontent.com/streamdata-gallery-organizations/blogger/master/_listings/blogger/apis.yaml"
+		}
+	]
+}
